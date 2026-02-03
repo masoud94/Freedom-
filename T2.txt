@@ -1,1 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%2010
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjAzMmQ5OTNkZmVjMzE4@141.95.104.145:11201#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%209
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%208
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%207
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%206
+trojan://humanity@172.64.152.23:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%205
+vless://nasnet@57.129.64.102:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-5712964102-direct.sharghdaily.co&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%202
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%201
