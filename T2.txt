@@ -8,3 +8,12 @@ vless://nasnet@57.129.64.102:443/?type=tcp&encryption=none&flow=xtls-rprx-vision
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%202
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%2019
+vless://68c89f56-3a15-46f2-9901-8c00a2546b97@172.64.144.74:443/?type=ws&encryption=none&flow=&host=rukawa.pages.dev&path=%2F&security=tls&sni=rukawa.pages.dev#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%2018
+vmess://eyJhZGQiOiIxOTMuMTExLjIzNi4xODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Inlhc2RsLmNvbSIsImlkIjoiZDIzY2IwMzUtNjMxMS05Nzk2LTMxYWItODBiZTdkMGNiYTM5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MzcyNiIsInBzIjoiRnJlZWRvbSBb8J+Ps/Cfh67wn4e3XSAxNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.126:8880/?type=grpc&encryption=none&flow=#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%2016
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%2015
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%2014
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%2013
+vless://6e0ed707-445d-4b33-927f-a07bcdff5d2c@57.128.251.195:443/?type=tcp&encryption=none&flow=&sni=www.digikala.com&fp=chrome&security=reality&pbk=gQ2tcAzqhEURxYqPNxQC6IexJIOycyhqv4uR0My_0wg&sid=93#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%2012
+vless://ca911bd2-e08f-42d8-aefb-3117494d3367@77.239.124.88:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mskhost.outlinekeys.net&fp=chrome&security=reality&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ&sid=#Freedom%20%5B%F0%9F%8F%B3%F0%9F%87%AE%F0%9F%87%B7%5D%2011
